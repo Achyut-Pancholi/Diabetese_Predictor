@@ -5,5 +5,4 @@ seaborn
 scikit-learn
 streamlit
 joblib
-matplotlib
 tensorflow
